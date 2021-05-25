@@ -1,0 +1,7 @@
+C:\Users\mort286f\source\repos\ThreadpoolBasisØvelse3\ThreadpoolBasisØvelse3\bin\Debug\ThreadpoolBasisØvelse3.exe.config
+C:\Users\mort286f\source\repos\ThreadpoolBasisØvelse3\ThreadpoolBasisØvelse3\bin\Debug\ThreadpoolBasisØvelse3.exe
+C:\Users\mort286f\source\repos\ThreadpoolBasisØvelse3\ThreadpoolBasisØvelse3\bin\Debug\ThreadpoolBasisØvelse3.pdb
+C:\Users\mort286f\source\repos\ThreadpoolBasisØvelse3\ThreadpoolBasisØvelse3\obj\Debug\ThreadpoolBasisØvelse3.csprojAssemblyReference.cache
+C:\Users\mort286f\source\repos\ThreadpoolBasisØvelse3\ThreadpoolBasisØvelse3\obj\Debug\ThreadpoolBasisØvelse3.csproj.CoreCompileInputs.cache
+C:\Users\mort286f\source\repos\ThreadpoolBasisØvelse3\ThreadpoolBasisØvelse3\obj\Debug\ThreadpoolBasisØvelse3.exe
+C:\Users\mort286f\source\repos\ThreadpoolBasisØvelse3\ThreadpoolBasisØvelse3\obj\Debug\ThreadpoolBasisØvelse3.pdb
